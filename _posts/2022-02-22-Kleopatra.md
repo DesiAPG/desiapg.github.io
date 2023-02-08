@@ -3,4 +3,4 @@ layout: post
 author: Duvan Marin
 ---
 
-[VIDEO DE YOUTUBE](https://youtu.be/TABNonikK78)
+[VIDEO EN YOUTUBE](https://youtu.be/TABNonikK78)
